@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @twotwogoose
-- 👀 I’m interested in things I cannot have as a career or subject cuz education system lol but yes CSE is also interesting so thank god i got that at least :)
-- 🌱 I’m currently learning C (newbie).
+- 👀 I’m interested in things idk
+- 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate on nothing currently, just learning.
 - 📫 How to reach me: the main question here is why?
 
